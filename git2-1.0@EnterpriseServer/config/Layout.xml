@@ -6,5 +6,6 @@
     <service-instance name="Feeder2" x="131" y="179"/>
     <service-instance name="SubtractDate" x="307" y="297"/>
     <service-instance name="Display1" x="420" y="210"/>
+    <service-instance name="Display2" x="535" y="101"/>
   </subflow>
 </layout>
