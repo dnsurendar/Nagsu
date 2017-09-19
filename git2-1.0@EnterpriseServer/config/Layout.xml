@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<layout>
+  <subflow name="FIORANO.ESTUDIO.ROOT_FLOW" x="0" y="0">
+    <service-instance name="Feeder1" x="152" y="55"/>
+    <service-instance name="AddDate" x="328" y="173"/>
+    <service-instance name="Feeder2" x="131" y="179"/>
+    <service-instance name="SubtractDate" x="307" y="297"/>
+    <service-instance name="Display1" x="420" y="210"/>
+  </subflow>
+</layout>
